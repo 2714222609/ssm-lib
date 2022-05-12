@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: yue
+Build-Jdk: 11.0.11
+Implementation-Version: 2.6.7
+Implementation-Vendor-Id: org.springframework.boot
+Main-Class: ${start-class}
+
